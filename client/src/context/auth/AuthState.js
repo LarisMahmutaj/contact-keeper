@@ -31,7 +31,7 @@ const AuthState = props => {
 
   // Logout
 
-  // C  lear errors
+  // Clear errors
 
   return (
     <AuthContext.Provider
